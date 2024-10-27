@@ -9,4 +9,4 @@ Leaflet-part1 ressources contains the main script and the data use to realize th
 The exercise uses HTML and JavaScript.
 
 ## Acknowledgment
-Adding Module10 assignment done with the expertise of [@rosericazondekon](https://github.com/rosericazondekon).
+Adding Module15 assignment done with the expertise of [@rosericazondekon](https://github.com/rosericazondekon).
